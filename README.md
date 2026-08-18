@@ -227,7 +227,7 @@ The following screenshots provide a visual overview of the completed five-page P
 
 ### 01 | Executive Overview
 
-![Executive Overview](01%20Executive%20Overview.png)
+![Executive Overview](./01%20Executive%20Overview.png)
 
 ### 02 | Business Overview
 
