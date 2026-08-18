@@ -218,3 +218,29 @@ The repository contains the following project deliverables:
 ## Conclusion
 
 This project demonstrates how business data can be transformed into meaningful insights using Power BI. The analysis connects sales and profitability metrics with product, category, regional, and discount-level performance to support more informed business decisions.
+
+---
+
+## Dashboard Screenshots
+
+The following screenshots provide a visual overview of the completed five-page Power BI dashboard.
+
+### 01 | Executive Overview
+
+![Executive Overview](01%20Executive%20Overview.png)
+
+### 02 | Business Overview
+
+![Business Overview](02%20Business%20Overview.png)
+
+### 03 | Discount Impact
+
+![Discount Impact](03%20Discount%20Impact.png)
+
+### 04 | Focus Areas
+
+![Focus Areas](04%20Focus%20Areas.png)
+
+### 05 | Recommendations
+
+![Recommendations](05%20Recomendations.png)
